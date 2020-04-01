@@ -94,5 +94,5 @@ az storage account create --name {YOUR_STORAGE_NAME} --location {LOCATION} --res
 
 [![最初の検索](images/first_search.png)](https://docs.microsoft.com/en-us/azure/search/cognitive-search-quickstart-blob?WT.mc_id=msignitethetour2019-github-aiml10#query-in-search-explorer "最初の検索")
 
-# <a name="next-demo"></a>次のデモ
+# <a name="next-demo"></a>次のデモ 
 「[デモ 2 - Form Recognizer を使用する](demo2.md)」に進み、Form Recognizer Cognitive サービスを使用する方法について学習します
